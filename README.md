@@ -1,5 +1,5 @@
 # 2015-2019
-this is a fossil repository, will never be updated.
+`warning: this is a fossil repository, will never be updated. it stays as it is.`
 
 in 2015 i started programming, i was learning C++, my first program ever was that one with 3000 lines.
 
