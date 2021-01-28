@@ -1,4 +1,6 @@
 # 2015-2019
+this is a fossil repository, will never be updated.
+
 in 2015 i started programming, i was learning C++, my first program ever was that one with 3000 lines.
 
 this repo represents what were the best results from 2015 to 2019. any project, any language that i learn back then.
